@@ -1,6 +1,6 @@
 install:
-	pip install --upgrade pip &&\
-		pip install -r requirnments.txt
+	python -m pip install --upgrade pip &&\
+		python -m pip install -r requirements.txt
 
 format:
 	black *.py
