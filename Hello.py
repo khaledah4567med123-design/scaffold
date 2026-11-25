@@ -1,4 +1,4 @@
-khaled=17
+khaled=1
 
 
 def add(x, y):
